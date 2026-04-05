@@ -33,7 +33,7 @@ G.R.O.S.S. is a single HTML file. No build step, no dependencies, no server.
 3. Enter your [Anthropic API key](https://console.anthropic.com/) — it stays in your browser tab and is never stored
 4. Paste your text and hit **G.R.O.S.S. now!**
 
-Or just use the [hosted version](https://yourusername.github.io/gross) on GitHub Pages.
+Or just use the [hosted version]([https://yourusername.github.io/gross](https://jorgeantonio512.github.io/G.R.O.S.S.-Get-Rid-Of-Slimy-textS/)) on GitHub Pages.
 
 ---
 
